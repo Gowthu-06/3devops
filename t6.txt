@@ -17,8 +17,8 @@ public class Grade {
     public static void main(String[] args) {
 
         // Fixed grades without user input
-        double grade1 = 85;
-        double grade2 = 90;
+        double grade1 = 89;
+        double grade2 = 96;
         double grade3 = 78;
         double grade4 = 88;
         double grade5 = 92;
