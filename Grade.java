@@ -21,7 +21,7 @@ public class Grade {
         double grade2 = 96;
         double grade3 = 78;
         double grade4 = 88;
-        double grade5 = 92;
+        double grade5 = 42;
 
         int count = 5;
 
